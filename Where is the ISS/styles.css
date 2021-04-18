@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#leaflet-map {
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    background-image: url("./images/ISS-background.jpg");
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.title {
+    padding: 10px;
+    color: white;
+}
+
+.display-container {
+    color: #BFBFBF;
+    font-size: 20px;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    #leaflet-map {
+        width: 90%;
+    }
+}
