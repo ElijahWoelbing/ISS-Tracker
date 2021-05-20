@@ -1,5 +1,5 @@
 International Space Station Tracker
-Thanks to where is the ISS at API and Leaflet Maps
+Thanks to the "where is the ISS at" API and Leaflet Maps
 
 Leaflet: https://leafletjs.com/
 
